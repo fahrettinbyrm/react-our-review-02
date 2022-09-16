@@ -1,5 +1,5 @@
 # our-review-02
-react mine example project
+react mini example project
 
 # to start the project 
 
