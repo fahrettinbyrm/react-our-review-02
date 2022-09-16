@@ -7,4 +7,4 @@ npm install && npm start
 
 # Direct Link
 
-our-review-03.netlify.app
+https://our-review-03.netlify.app/
